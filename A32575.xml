@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation for the preservation of the great level of the fens, called Bedford level, and of the works made for the dreining of the same</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32575</idno>
+            <idno type="STC">Wing C3499</idno>
+            <idno type="STC">ESTC R33279</idno>
+            <idno type="EEBO-CITATION">13118559</idno>
+            <idno type="OCLC">ocm 13118559</idno>
+            <idno type="VID">97785</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97785)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1547:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation for the preservation of the great level of the fens, called Bedford level, and of the works made for the dreining of the same</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Givien at the court at Hampton Court, the thirtieth day of May, 1662. In the fourteenth year of our reign."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drainage --  England.</term>
+               <term>Fens, The (England)</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:97785:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>By the King.</head>
+            <head type="sub">A PROCLAMATION For the Preſervation of the Great Level of the Fens, called <hi>Bedford</hi> Level, and of the Works made for the Dreining of the ſame.</head>
+            <opener>
+               <signed>CHARLES <hi>R.</hi>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Great Level of the Fens, called <hi>Bedford</hi> Level, extending it ſelf into the Counties of <hi>Northampton, Norfolk, Suffolk, Lincoln, Cambridge,</hi> and <hi>Huntington,</hi> and the Iſle of <hi>Ely,</hi> or ſome of them, hath been Dreined by Our right Truſty and Welbeloved Coſin <hi>William</hi> Earl of <hi>Bedford,</hi> Participants and Adventurers for Dreining of the ſaid Great Level at their very great coſts and charges, and Ninety five thouſand Acres of late Surrounded Grounds, parcel of the ſaid Great Level, have been aſſigned and ſet forth for the recompence of Dreining and Maintaining the ſaid Great Level, whereof Twelve thouſand Acres then belonging to Vs, Our Heirs and Aſſigns, and are now enjoyed by Vs and Our Aſſigns, and the reſidue of the ſaid Ninety five thouſand Acres are enjoyed by the ſaid Earl, Participants, and Adventurers, the which work being of publick concernment, and great ad<g ref="char:EOLhyphen"/>vantage, benefit, and profit to the whole Nation, an Act was made by Vs with the Advice and Conſent of the Lords and Commons aſſembled at <hi>Weſtminſter,</hi> the Five and twentieth day of <hi>April,</hi> in the Twelf year of
+<pb facs="tcp:97785:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 14 -->
+Our Reign, Intituled, <hi>An Act for the neceſſary maintainance of the Work of Dreining the Great Level of the Fens,</hi> whereby the ſaid Earl, Participants, and Adventurers, were enabled as well to Levy Taxes then former<g ref="char:EOLhyphen"/>ly impoſed upon the ſaid Ninety five thouſand Acres, as then after to be impoſed by vertue of the ſaid Act, and the poſſeſſion of the ſaid Ninety five thouſand Acres, ſetled and quieted as then it was; which ſaid Act did expire the Nine and twentieth day of <hi>May,</hi> which was in the Thirteenth year of Our ſaid Reign. And whereas in the Parliament begun at <hi>Weſtminſter,</hi> the Eight day of <hi>May,</hi> in the ſaid Thirteenth year of Our Reign, one other Act intituled, <hi>An Act for confirming and continuing an Act for the neceſſary maintaining of the work of Dreining the Great Level of the Fens,</hi> the ſaid former Act was confirmed and continued until the Firſt day of <hi>May</hi> inſtant; And whereas a Bill was preferred and proſecuted in Our Houſe of Commons by the ſaid Earl, Participants, and Adventurers, for maintaining and preſervation of the ſaid Great Level, and of all the Rivers, Dreins, Cuts, Banks, Saſſes, Sluces, Tonnels, and other works made, whereby to prevent future Inundations, and had proceeded therein to ſettle and agree the greateſt part thereof, but could not in regard of ſhortneſs of time perfect the ſame: And therefore both Our Houſes of Parliament have ſeverally by their Order made the Nineteenth day of <hi>May</hi> inſtant, recommended to Our Princely care, the preſervation of the ſaid Great Level, and more particularly by the Order of the Houſe of Peers is further re<g ref="char:EOLhyphen"/>commended to Our care the works there made, and quieting and ſetling of the poſſeſſions as then they were, until further Order. And whereas ſome attempts have been lately made by cutting of Banks, and forcible and unſeaſonable opening of Saſſes and Sluces within the ſaid Great Level, to the endangering of the drowning of a great part thereof. We therefore in purſuance of the ſaid recommendation of both Our Houſes of Parliament, and much minding the publick peace and ſafety of this Kingdom, and to give all juſt and lawful countenance and encouragement to ſo publick a work, and for ſupport and preſervation thereof, have already for the Government and maintenance of the ſaid Great Level, and for laying and levying of Taxes, as well to be hereafter ſet, as now in arrear upon the ſaid Ninety five thouſand Acres, cauſed a Commiſſion of Sewers to be iſſued under the Great Seal of <hi>England,</hi> for that purpoſe. And that ſo famous a work may not now miſcarry, We do hereby publiſh and declare Our pleaſure to be, That the ſaid Com<g ref="char:EOLhyphen"/>miſſioners do lay Taxes and Aſſeſſments upon the ſaid Ninety five thouſand Acres onely, for ſupport and maintenance of the works made for Dreining of the ſaid Great Level, and upon no other part of the ſaid Level. And We do ſtreightly forbid under pain of Our diſpleaſure, and ſuch puniſhment as is due to con<g ref="char:EOLhyphen"/>temners of Our Royal Commands, all future Attempts, Diſturbances, Interruptions, Entries, For<g ref="char:EOLhyphen"/>ces, Riots, Aſſemblies, or any other unlawful Act or Acts tending to the diſturbance of the publick peace within the ſaid Great Level, or parts adjacent, or the interruption of the ſaid <hi>William</hi> Earl of <hi>Bedford,</hi> Par<g ref="char:EOLhyphen"/>ticipants and Adventurers, their Tenants and Aſſigns, or of Vs or Our Aſſigns, in the quiet poſſeſſion and enjoyment of the ſaid Ninety five thouſand Acres or any part or parcel thereof, or of, or in any of the Rivers, Dreins, Cuts, Banks, Saſſes, Sluces, Tonnels, or any other works made for Dreining of the ſaid Great Level, or interruption, moleſtation, or diſturbance of any their Officers, Agents, or
+<pb facs="tcp:97785:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 15 -->
+Workmen, in any of their works of the ſaid Great Level, or collecting, or levying any Taxes, Ar<g ref="char:EOLhyphen"/>rear-Taxes, in order to preſerve the ſaid Great Level, until further order. And all Our Iuſtices of the Peace, Mayors, Sheriffs, and other Miniſters of Iuſtice, and all other Our Officers, Military and Civil, and all Our loving Subjects, are hereby required to be aiding and aſſiſting to the ſaid Commiſſioners of Sewers, and ſuch as they ſhall appoint, to ſee Our Royal Commands hereby publiſhed, duly obſerved, as often as occaſion ſhall require, as they will avoid Our Royal diſpleaſure.</p>
+            <closer>
+               <dateline>Given at Our Court at Hampton-Court, <date>the Thirtieth day of May, 1662. In the Fourteenth Year of Our Reign.</date>
+               </dateline>
+               <lb/>
+God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the KINGS moſt Excellent Majeſty. 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
